@@ -1,0 +1,3 @@
+[submodule "app/bible_api"]
+	path = app/bible_api
+	url = https://github.com/splitant/bible-api.git
